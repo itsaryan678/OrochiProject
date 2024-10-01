@@ -9,8 +9,8 @@
   "prefix": ".",
   "api": "https://www.noobs-api.000.pe/dipto",
   "database": {
-    "mongo": true,
-    "json": false
+    "mongo": false,
+    "json": true
   },
   "adminBot": [
     7923081615
